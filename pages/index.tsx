@@ -32,8 +32,10 @@ export default function Home() {
     </div>
   </div>
 </div>
+<div className="flex flex-row justify-center">
+<h1 className='font-bold mt-20 text-4xl'>NEW ARRIVAL</h1>
+</div>
 
-<h1 className='font-bold mt-20 '>NEW ARRIVAL</h1>
 
 
 
